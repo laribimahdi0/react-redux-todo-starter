@@ -1,0 +1,10 @@
+installation steps
+
+git clone https://github.com/laribimahdi0/react-redux-todo-starter.git;
+cd react-redux-todo-starter .
+
+npm install
+
+npm start
+
+server sould start at 127.0.0.1:3000
